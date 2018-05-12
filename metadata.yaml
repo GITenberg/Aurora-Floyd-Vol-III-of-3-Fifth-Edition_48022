@@ -1,4 +1,8 @@
 _repo: Aurora-Floyd-Vol-III-of-3-Fifth-Edition_48022
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48022-h/images/cover.jpg
 creator:
   author:
     agent_name: Braddon, M. E. (Mary Elizabeth)
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2957
     wikipedia: http://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48022#Aurora-Floyd-Vol-III-of-3-Fifth-Edition
 gutenberg_issued: '2015-01-19'
 gutenberg_type: Text
 identifiers:
